@@ -9,4 +9,3 @@ It's my first repository on GitHub)
 ```
 
 Yes, this is it smh
->>>>>>> 8d1520903042ab6fd20ec1e793ae89203448f707
